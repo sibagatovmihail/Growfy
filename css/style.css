@@ -519,7 +519,7 @@ h4 {
 .images-why__item_1::before {
   content: "";
   position: absolute;
-  background: url(../../img/divdecor.svg) 0/100% no-repeat;
+  background: url(../img/divdecor.svg) 0/100% no-repeat;
   bottom: 1.5rem;
   left: -1.8rem;
   width: 122px;
@@ -1442,7 +1442,7 @@ h4 {
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: start;
-    background: url(../../img/icons8-shopping-cart-96.png) -10px/cover no-repeat;
+    background: url(../img/icons8-shopping-cart-96.png) -10px/cover no-repeat;
     height: 50px;
     width: 40px;
     border-radius: 0;
