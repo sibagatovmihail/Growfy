@@ -331,7 +331,7 @@ h4 {
 .main__content::before {
   content: "";
   position: absolute;
-  background: url(../../img/divdecor.svg) 0 0/100% no-repeat;
+  background: url(../img/divdecor.svg) 0 0/100% no-repeat;
   top: -1.7rem;
   left: -1.93rem;
   width: 7.625em;
